@@ -425,6 +425,9 @@ a {
 .testinominal-wrapper .testinominal:hover {
     background-color: var(--green);
 }
+.testinominal-wrapper .testinominal h6:hover {
+    color: var(--white);
+}
 
 .testinominal-wrapper .testinominal ul li {
     list-style-type: none;
